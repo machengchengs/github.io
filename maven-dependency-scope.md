@@ -5,7 +5,7 @@
 - runtime
 - test
 - system
-- import
+- import(仅在 dependencyManagement 部分使用，用于导入其他 POM 文件中的依赖管理配置)
 
 ### Maven 生命周期阶段
 
