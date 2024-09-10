@@ -4,7 +4,7 @@ YML 常用语法
 >
 > 例如，缩进可用于结构，冒号用于分隔 键/值对，破折号用于创建“项目符号”列表。
 >
-[跳转至YML长文示例链接](https://yaml.org/spec/1.2.2/#25-full-length-example)
+[跳转至YML全文示例链接](https://yaml.org/spec/1.2.2/#25-full-length-example)
 
 ## 以下是一些 YAML 语法的基本示例
 ### 1. 基本数据类型
