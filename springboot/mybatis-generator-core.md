@@ -17,7 +17,7 @@ mybatis-generator-core 自动生成
 ```
 2.	创建 MyBatis Generator 配置文件 generatorConfig.xml（与applicaton.yml 同级）
 
-请参考 [参考文档](generate_mybatis_config.md) 获取更多信息。
+  > 请参考 [generatorConfig.xml](generate_mybatis_config.md) 获取更多信息。
 
 3.	执行 MyBatis Generator
 使用命令行工具运行 MyBatis Generator，自动生成代码：这个命令会读取 generatorConfig.xml 文件，根据你配置的内容生成相应的 model、mapper 以及 xml 文件。
